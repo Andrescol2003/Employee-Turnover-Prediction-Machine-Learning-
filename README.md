@@ -1,15 +1,15 @@
 # Employee Turnover Prediction – Machine Learning
 
 ## Overview
-This project aims to predict whether an employee will **stay or leave a company** using **Machine Learning models**.  
-The objective is to support **HR decision-making** by identifying high-risk employees early and providing insights into the key factors that influence turnover.  
+This project aims to predict whether an employee will stay or leave a company using Machine Learning models.  
+The objective is to support **HR decision-making by identifying high-risk employees early and providing insights into the key factors that influence turnover.  
 
 ---
 
 ## Project Structure
 - `notebooks/` → Jupyter notebooks for data cleaning, feature engineering, and model training.  
 - `data/` → (Not included in repo – instructions for dataset access).  
-- `models/` → Saved trained models (optional).  
+- `models/` → Saved trained models.  
 - `requirements.txt` → Python dependencies.  
 
 ---
